@@ -4,7 +4,6 @@ project(FluidSimulation)
 
 find_package(SFML 3 COMPONENTS Graphics Window System CONFIG REQUIRED)
 
-# Assurez-vous que ces chemins correspondent EXACTEMENT à vos dossiers
 set(SOURCES 
     "main.cpp"
     "src/Physics/PhysicsEngine.cpp"
@@ -13,7 +12,6 @@ set(SOURCES
 
 add_executable(FluidSimulation ${SOURCES})
 
-# Pour les headers, vous avez bien un dossier "Render" dans "include"
 target_include_directories(FluidSimulation PRIVATE "include")
 
 target_link_libraries(FluidSimulation PRIVATE SFML::Graphics SFML::Window SFML::System)
