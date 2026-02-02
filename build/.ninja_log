@@ -1,9 +1,0 @@
-# ninja log v6
-51	5506	7914743589246391	CMakeFiles/FluidSimulation.dir/src/Render/Renderer.cpp.obj	a1b1a85084406175
-41	5503	7914743589146789	CMakeFiles/FluidSimulation.dir/main.cpp.obj	ec24af222d32e456
-47	5513	7914743589206386	CMakeFiles/FluidSimulation.dir/src/Physics/PhysicsEngine.cpp.obj	7f474a4737b3f32d
-5515	8506	7914743643888304	FluidSimulation.exe	938c43423c733cb1
-40	745	7914743988584392	CMakeFiles/FluidSimulation.dir/main.cpp.obj	ec24af222d32e456
-49	787	7914743988673139	CMakeFiles/FluidSimulation.dir/src/Render/Renderer.cpp.obj	a1b1a85084406175
-46	869	7914743988634742	CMakeFiles/FluidSimulation.dir/src/Physics/PhysicsEngine.cpp.obj	7f474a4737b3f32d
-872	2703	7914743996885867	FluidSimulation.exe	938c43423c733cb1
